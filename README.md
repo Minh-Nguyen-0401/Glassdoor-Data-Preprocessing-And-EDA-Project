@@ -39,7 +39,7 @@ In this project, our primary objectives include:
    - Extracting useful information from job descriptions.
    - Removing numerical values from company names.
    - Creating new features, such as a state column from the location column.
-5. **Gathering Insightful Information**: with respect to states, rates offered, ratings, industries, sectors and JD.
+5. **Gathering Insightful Information**: with respect to states, rates offered, ratings, industries, sectors, and JD through grouping, merging and aggregating relations.
 
 ## Languages/Tools Used
 - Python, SQLite, SQL Magic
