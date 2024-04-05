@@ -1,11 +1,11 @@
-# DS-Job-Postings-Glassdoor-Data-Preprocessing-Project
+# DS-Job-Postings-Glassdoor-Data-Preprocessing-&-Analysis-Project
 ## Project Overview
 
 Welcome to the Glassdoor Data Science Job Postings Project! This project aims to explore a dataset focusing on data science job postings sourced from Glassdoor, a leading platform for job seekers and employers. The dataset provides comprehensive insights into various aspects of data science job postings, including job titles, salary estimations, job descriptions, company ratings, and more.
 
 ## About the Dataset
 
-The <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor">dataset</a>, scraped from Glassdoor's website, presents a rich but initially unstructured and messy collection of data. It comprises several crucial columns:
+<a href="https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor">The dataset</a>, scraped from Glassdoor's website, presents a rich but initially unstructured and messy collection of data. It originally comprises several crucial columns:
 
 - **`Job Title`**: Title of the job posting.
 - **`Salary Estimation`**: Salary range for each specific job.
@@ -31,5 +31,9 @@ In this project, our primary objectives include:
    - Extracting useful information from job descriptions.
    - Removing numerical values from company names.
    - Creating new features, such as a state column from the location column.
+5. **Gathering Insightful Information**: with respect to states, rates offered, ratings, industries, sectors and JD.
+
+## Languages/Tools Used
+- Python, SQLite, SQL Magic
 
 Through these objectives and guiding questions, we aim to gain deeper insights into data science job postings on Glassdoor and extract actionable information for job seekers and employers in the field. Let's embark on this journey into the exciting world of data science job opportunities!
