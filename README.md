@@ -3,6 +3,14 @@
 
 Welcome to the Glassdoor Data Science Job Postings Project! This project aims to explore a dataset focusing on data science job postings sourced from Glassdoor, a leading platform for job seekers and employers. The dataset provides comprehensive insights into various aspects of data science job postings, including job titles, salary estimations, job descriptions, company ratings, and more.
 
+## Project Structure:
+
+- **`README.md`**: An introductory document containing quintessential information on the project
+- **`glassdoor preprocessing & analysis.ipynb`**: The main Jyputer Notebook containing the data retrieval, preprocessing, data manipulation, and Exploratory Data Analysis operations
+- **`glassdoor_sql.db`**: A Database File generated during the programming session with SQLite to facilitate data manipulation 
+- **`Analytic Figures`**: A Folder containing Reporting Figures for insights generated during EDA process.
+- **`data-science-job-posting-on-glassdoor`**: Original dataset retrieved from source
+
 ## About the Dataset
 
 <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor">The dataset</a>, scraped from Glassdoor's website, presents a rich but initially unstructured and messy collection of data. It originally comprises several crucial columns:
