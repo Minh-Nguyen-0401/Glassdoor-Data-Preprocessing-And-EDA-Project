@@ -29,7 +29,7 @@ Welcome to the Glassdoor Data Science Job Postings Project! This project aims to
 
 ## Objectives and Guiding Questions
 
-In this project, our primary objectives include:
+In this project, my preset primary objectives include:
 
 1. **Data Cleaning and Structuring**: Prepare the dataset for analysis by cleaning and structuring the data.
 2. **Insight Extraction from Job Descriptions**: Extract meaningful insights from job descriptions to understand the requirements and trends in the data science field.
