@@ -41,6 +41,9 @@ In this project, my preset primary objectives include:
    - Creating new features, such as a state column from the location column.
 5. **Gathering Insightful Information through EDA**: with respect to states, rates offered, ratings, industries, sectors, and JD through grouping, merging, and aggregating relations.
 
+## APIs Used:
+- PLaces API (New)
+
 ## Languages/Tools Used
 - Python, SQLite, SQL Magic
 
