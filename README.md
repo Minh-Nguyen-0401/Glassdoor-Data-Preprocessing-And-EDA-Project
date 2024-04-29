@@ -27,19 +27,20 @@ Welcome to the Glassdoor Data Science Job Postings Project! This project aims to
 - **`Industry, Sector`**: Field in which the applicant will work.
 - **`Revenue`**: Total revenue of the company.
 
-## Objectives and Guiding Questions
+## Objectives and Methodologies:
 
 In this project, my preset primary objectives include:
 
 1. **Data Cleaning and Structuring**: Prepare the dataset for analysis by cleaning and structuring the data.
 2. **Insight Extraction from Job Descriptions**: Extract meaningful insights from job descriptions to understand the requirements and trends in the data science field.
 3. **Dataset Manipulation and Enhancement**: Manipulate and enhance the dataset to create new features that can provide additional insights.
-4. **Addressing Specific Guiding Questions**: Answer specific guiding questions, including:
+4. **Addressing Specific Transformation Tasks**: Perform some data processing steps accordingly, including:
    - Converting the salary column into integers.
    - Extracting useful information from job descriptions.
    - Removing numerical values from company names.
    - Creating new features, such as a state column from the location column.
-5. **Gathering Insightful Information through EDA**: with respect to states, rates offered, ratings, industries, sectors, and JD through grouping, merging, and aggregating relations.
+5. **Gathering Insightful Information through EDA**: technical analysis and insightful segmentation are later performed with respect to states, rates offered, ratings, industries, sectors, and job descriptions through grouping, merging, and aggregating relations. This in turns helps answer the questions of whether <i>`Glassdoor is a desirable/prospective platform for data practitioner` </i> and if so, <i>`how one can utilize and adjust their capabilities and skillsets showcase to the job availability of the platform!`</i>
+6. **Compiling necessary figures for report preperation**: figures generated along the line are exported and placed in a predefined location using the `matplotlib.pyplot.savefig()` function and `os` library for easier insight deliveries and future reporting needs.
 
 ## APIs Used:
 - PLaces API (New)
@@ -48,7 +49,7 @@ In this project, my preset primary objectives include:
 - Python, SQLite, SQL Magic
 
 ## Libraries Used
-- Numpy, Pandas, Seaborn, Matplotlib, Plotly, Wordcloud
+- Numpy, Pandas, Seaborn, Matplotlib, Plotly, Wordcloud, re, os
 
 Through these objectives and guiding questions, we aim to gain deeper insights into data science job postings on Glassdoor and extract actionable information for job seekers and employers in the field. Let's embark on this journey into the exciting world of data science job opportunities!
 
